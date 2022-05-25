@@ -1,2 +1,2 @@
-#!/bin/root
-echo $(ls)
+#!/bin/bash
+echo $(ls -a)
